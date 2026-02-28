@@ -18,3 +18,4 @@ jiwer
 numpy
 pandas
 pathlib
+deep-translator
